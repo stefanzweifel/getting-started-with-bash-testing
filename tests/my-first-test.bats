@@ -5,7 +5,7 @@ load '../node_modules/bats-assert/load'
 
 setup() {
     # Add code which should be executed before each test case
-    export MY_SCRIPT_PATH_FOR_NEW_FILES=~/Desktop
+    export MY_SCRIPT_PATH_FOR_NEW_FILES=.
 }
 
 teardown() {
